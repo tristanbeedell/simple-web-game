@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+}
+
+.level-thumb {
+  width: 150px;
+  height: 150px;
+  background-color: grey;
+  text-align: center;
+  color: white;
+  padding: 20px;
+  display: block;
+}
+
+.grid {
+  display: grid;
+}
